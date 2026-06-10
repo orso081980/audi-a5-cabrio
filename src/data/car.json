@@ -1,0 +1,45 @@
+{
+    "make": "Audi",
+    "model": "A5 Cabriolet",
+    "variant": "Business Edition S line",
+    "year": 2023,
+    "immatriculation": 2023,
+    "mileage": 52819,
+    "engine": {
+        "code": "35 TFSI",
+        "displacement": "1984 cc",
+        "power_kw": 110,
+        "power_hp": 150,
+        "torque_nm": null,
+        "cylinders": 4,
+        "fiscal_hp": 11,
+        "technology": "Mild Hybrid (MHEV)",
+        "transmission": "S tronic (automatique double embrayage)",
+        "emission_standard": "Euro 6d-ISC-FCM (EU6 AP)",
+        "fuel": "Benzina"
+    },
+    "performance": {
+        "fuel_consumption_combined": "7.2 l/100km",
+        "co2_emissions_combined": "162 g/km",
+        "fuel_tank_litres": 54
+    },
+    "exterior": {
+        "color": "Nero mythos metallizzato",
+        "color_code": "0ESF",
+        "roof": "Cappote rossa — apertura/chiusura elettrica con isolamento acustico",
+        "body": "Cabriolet",
+        "bumper": "S line",
+        "window_frames": "Alluminio",
+        "right_mirror": "Convex",
+        "roof_color": "Tinta carrozzeria",
+        "daytime_running_lights": true
+    },
+    "interior": {
+        "seats": "Nero-nero con impunture grigio Roccia",
+        "dashboard": "Nero-nero",
+        "carpet": "Nero",
+        "headliner": "Tessuto nero",
+        "seat_material": "Combinazione Dinamica/cuir con logo 'S' sui poggiatesta anteriori",
+        "decorative_inserts": "Piano laccato nero"
+    }
+}

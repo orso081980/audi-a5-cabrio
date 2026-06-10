@@ -1,0 +1,21 @@
+---
+eyebrow: "Stato del Veicolo"
+title: "Condizioni"
+items:
+  - label: "Chilometraggio"
+    dynamic: "mileage"
+    note: "Certificato"
+    status: "info"
+  - label: "Carrozzeria"
+    value: "Eccellente"
+    note: "Nessun graffio o ammaccatura"
+    status: "excellent"
+  - label: "Tagliandi"
+    value: "In regola"
+    note: "Libro tagliandi disponibile"
+    status: "excellent"
+  - label: "Pneumatici"
+    value: "Perfetti"
+    note: "255/35 R19 96Y XL"
+    status: "excellent"
+---

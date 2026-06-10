@@ -1,0 +1,21 @@
+---
+eyebrow: "Vehicle Condition"
+title: "Condition"
+items:
+  - label: "Mileage"
+    dynamic: "mileage"
+    note: "Certified"
+    status: "info"
+  - label: "Bodywork"
+    value: "Excellent"
+    note: "No scratches or dents"
+    status: "excellent"
+  - label: "Service history"
+    value: "Up to date"
+    note: "Service book available"
+    status: "excellent"
+  - label: "Tyres"
+    value: "Perfect"
+    note: "255/35 R19 96Y XL"
+    status: "excellent"
+---
