@@ -1,5 +1,5 @@
 ---
-eyebrow: "Vehicle Photos"
+eyebrow: "Vehicle Photos test"
 title: "Photo Gallery"
 media:
   - type: image
